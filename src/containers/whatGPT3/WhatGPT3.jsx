@@ -3,6 +3,6 @@ import "./whatgpt3.css";
 
 export default function Whatgpt3() {
   return (
-    <div>Whatgpt3</div>
+    <div className='gpt3__whatgpt3 section__margin' id='wgpt3'>Whatgpt3</div>
   )
 }
